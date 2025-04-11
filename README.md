@@ -22,7 +22,7 @@ cd ExplainableAI
 2. Install requirements
 pip install -r requirements.txt
 
-Sample requirements.txt:
+requirements.txt:
 gradio
 scikit-learn
 pandas
